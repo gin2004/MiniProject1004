@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047901879506",
+    "project_id": "miniproject1004",
+    "storage_bucket": "miniproject1004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047901879506:android:fadcae026c6e15c3e7410b",
+        "android_client_info": {
+          "package_name": "com.example.miniproject1004"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA06pJa0XNm_HUkAnxOG6IQsYD8CmvdJI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
